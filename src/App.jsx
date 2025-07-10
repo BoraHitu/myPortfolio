@@ -1,14 +1,13 @@
-
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import reactLogo from "./assets/react.svg";
+import viteLogo from "/vite.svg";
+import "./App.css";
 
 function App() {
-
   return (
-    <><h1>Welcome</h1>
+    <>
+      <h1>Welcome Hitesh</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
