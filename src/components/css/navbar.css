@@ -1,0 +1,85 @@
+.navigation-section {
+  justify-content: space-between;
+  padding: 10px 40px;
+  display: flex;
+  background-color: #f6f8fc;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  padding: 1rem;
+
+  .logo-div {
+    align-content: center;
+    font-size: 3rem;
+    font-family: math;
+    font-weight: 900;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(180deg, rgb(135 212 231), rgb(40 87 229)) text;
+  }
+
+  .navbar .navbar-collapse {
+    --tw-text-opacity: 1;
+    color: rgb(55 65 81 / var(--tw-text-opacity, 1));
+    font-weight: 500;
+  }
+
+  .btn {
+    height: 40px;
+    align-self: center;
+    
+    a {
+      color: unset;
+      text-decoration: none;
+      font-weight: 500;
+    }
+  }
+
+  .logo-styles {
+      height: 90px;
+      width: 90px;
+      border-radius: 45px;
+      padding: 5px;
+  }
+}
+
+.shadow-md {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.pdf-preview-modal {
+    max-width: 800px;
+    max-height: calc(100px + 80vh);
+    margin: auto;
+    padding: 0px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    inset: 16px;
+    border: 1px solid rgb(204, 204, 204);
+    overflow: auto;
+    outline: none;
+    
+  .btn {
+    height: 40px;
+    align-self: center;
+    
+    a {
+      text-decoration: none;
+      font-weight: 500;
+      color: #fff;
+    }
+  }
+}
+
+@media (max-width: 500px) {
+  .navigation-section {
+    padding: 10px 10px;
+    .navbar {
+      display: none;
+    }
+
+    .logo-div {
+      font-size: 2rem;
+    }
+  }
+}
