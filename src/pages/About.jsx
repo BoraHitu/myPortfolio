@@ -6,7 +6,7 @@ function About() {
       <div className="top-section">
         <div className="heading">About Me</div>
         <div className="subheading">
-          Passionate python developer with expertise in modern web technologies
+          Passionate software developer with expertise in modern web technologies
         </div>
       </div>
       <div className="about-details">
