@@ -76,7 +76,7 @@ const Navbar = () => {
         </div>
         <div style={{ padding: '0.5rem', background: '#fff' }}>
           <iframe
-            src="/Punam-Bora-Resume-Latest.pdf#toolbar=0&navpanes=0&view=FitH"
+            src="/Hitesh-Bora-Resume.pdf#toolbar=0&navpanes=0&view=FitH"
             title="Resume Preview"
             width="100%"
             style={{
