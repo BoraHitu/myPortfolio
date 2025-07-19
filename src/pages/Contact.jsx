@@ -19,7 +19,7 @@ function Contact() {
     },
     {
       type: "LinkedIn",
-      value: "https://www.linkedin.com/in/hiteshbora/",
+      value: "https://www.linkedin.com",
       href: "https://www.linkedin.com/in/hiteshbora/",
       icon: FaLinkedin,
     },
