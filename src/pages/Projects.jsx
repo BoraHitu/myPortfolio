@@ -8,14 +8,14 @@ function Projects() {
       overview:
         'I am a web developer passionate about building modern, responsive web applications. This portfolio showcases my projects, skills, and experience using React, Node.js, and  interactive layout.',
       features: [
-'💻 Optimized for all devices — desktop, tablet, and mobile.',
-'⚛️ Modern frontend stack for fast and efficient development.',
-'📁 Full-stack projects with tech stacks, live demos, and GitHub links.',
-'📊 Showcases expertise in frontend, backend, and development tools.',
-'🧭 SPA with scroll-based navigation and active section highlighting.',
-'🎨 Clean, modern UI with flexible and maintainable styling.',
-'🌐 Global deployment via GitHub and vercel.',
-'📱 Functional form with email integration for direct communication.'
+'Optimized for all devices — desktop, tablet, and mobile.',
+'Modern frontend stack for fast and efficient development.',
+'Full-stack projects with tech stacks, live demos, and GitHub links.',
+'Showcases expertise in frontend, backend, and development tools.',
+'SPA with scroll-based navigation and active section highlighting.',
+'Clean, modern UI with flexible and maintainable styling.',
+'Global deployment via GitHub and vercel.',
+'Functional form with email integration for direct communication.'
 
       ],
       skills: [
