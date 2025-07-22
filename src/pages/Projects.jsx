@@ -22,43 +22,8 @@ function Projects() {
         'Dynamic Reporting',
       ],
       cardName: 'first-card',
-    },
-    {
-      type: 'Enterprise CMS',
-      title: 'Ministry of Corporate Affairs',
-      overview:
-        'Enterprise-level AEM project with complex API integrations and performance optimizations.',
-      features: [
-        'Adobe Experience Manager implementation',
-        'Complex API integrations with WSO2 and Siebel',
-        'Improved data retrieval performance by 40%',
-        'Custom component development',
-        'Content management optimization',
-      ],
-      skills: ['AEM', 'Java', 'WSO2', 'Siebel', 'API Integration'],
-      cardName: 'second-card',
-    },
-    {
-      type: 'Financial Services',
-      title: 'Absa Internet Banking',
-      overview:
-        'Modern, responsive banking UI with comprehensive financial services integration and robust testing.',
-      features: [
-        'Responsive React banking interface',
-        'Secure API integration for financial services',
-        'Comprehensive frontend testing implementation',
-        'User experience optimization',
-        'Cross-platform compatibility',
-      ],
-      skills: [
-        'ReactJS',
-        'Redux',
-        'API Integration',
-        'React Testing Library',
-        'Responsive Design',
-      ],
-      cardName: 'third-card',
-    },
+    }
+  
   ];
 
   return (
