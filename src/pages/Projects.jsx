@@ -3,10 +3,10 @@ import './css/projects.css';
 function Projects() {
   const projects = [
     {
-      type: 'Full-Stack Application',
-      title: 'Everyday Life Insurance',
+      type: 'React',
+      title: 'MyPortfolio Website',
       overview:
-        'Comprehensive full-stack insurance platform with advanced reporting capabilities and dynamic filtering system.',
+        'I am a web developer passionate about building modern, responsive web applications. This portfolio showcases my projects, skills, and experience using React, Node.js, and  interactive layout.',
       features: [
 '💻 Fully Responsive Design Optimized for all screen sizes—desktop, tablet, and mobile—for a seamless experience everywhere.',
 '⚛️ Built with React & Vite Fast, modern frontend stack using React.js and Vite for rapid development and efficient performance.',
