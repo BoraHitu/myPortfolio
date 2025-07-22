@@ -8,14 +8,14 @@ function Projects() {
       overview:
         'I am a web developer passionate about building modern, responsive web applications. This portfolio showcases my projects, skills, and experience using React, Node.js, and  interactive layout.',
       features: [
-'💻 Fully Responsive Design Optimized for all screen sizes—desktop, tablet, and mobile—for a seamless experience everywhere.',
-'⚛️ Built with React & Vite Fast, modern frontend stack using React.js and Vite for rapid development and efficient performance.',
-'📁 Project Showcase Highlights full-stack projects with tech stacks, live demos, and GitHub links for recruiters and collaborators.',
-'📊 Skills & Tech Stack Section Clearly displays your expertise in frontend, backend, cloud, and dev tools with custom icons and tooltips.',
-'🧭 Smooth Navigation Single-page application (SPA) with scroll-based section navigation and active state highlighting.',
-'🎨 Custom Styling with Tailwind CSS Clean, modern UI styled with Tailwind for flexibility and maintainability.',
-'🌐 Deployed with Vercel Instant global deployment and CI/CD through GitHub and Vercel integration.',
-'📱 Contact Form with Email Integration A working contact form using EmailJS (or similar) to let people reach out directly from the site.'
+'💻 Optimized for all devices — desktop, tablet, and mobile.',
+'⚛️ Modern frontend stack for fast and efficient development.',
+'📁 Full-stack projects with tech stacks, live demos, and GitHub links.',
+'📊 Showcases expertise in frontend, backend, and development tools.',
+'🧭 SPA with scroll-based navigation and active section highlighting.',
+'🎨 Clean, modern UI with flexible and maintainable styling.',
+'🌐 Global deployment via GitHub and vercel.',
+'📱 Functional form with email integration for direct communication.'
 
       ],
       skills: [
